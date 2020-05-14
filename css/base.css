@@ -212,6 +212,7 @@ header{
 /* 中间头e */
 /* 页面底部s */
 footer{
+    width: 100%;
     margin-top:35px ;
     height: 500px;
     background:#EAEAEA;
